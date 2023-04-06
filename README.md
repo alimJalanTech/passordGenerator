@@ -1,2 +1,2 @@
 # passordGenerator
-Password Generator using Sumbols, Numbers and Alphabets
+Password Generator using Symbols, Numbers and Alphabets
